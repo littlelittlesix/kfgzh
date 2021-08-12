@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     {{openid}}
-    大家加油做项目，使用花生壳 加油
+    这次的项目是桂林公众号的开发
   </div>
 </template>
 
