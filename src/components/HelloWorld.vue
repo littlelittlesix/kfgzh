@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     {{openid}}
-    这次的项目是桂林公众号的开发
+    这次的项目是桂林公众号的开发hhhhhhhh红红火火恍恍惚惚
   </div>
 </template>
 
